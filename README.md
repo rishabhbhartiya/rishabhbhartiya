@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Bhartiya</h1>
 <h3 align="center">A passionate python developer and machine learning engineer from India</h3>
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Data Science & AI applications**
 
-- 👨‍💻 All of my projects are available at [https://rishabhbhartiya.github.io/website/](https://rishabhbhartiya.github.io/website/)
+- 👨‍💻 All of my projects are available at [https://rishabhbhartiya.github.io/website/](https://rishabhbhartiya.github.io/Portfolio/)
 
 - 💬 Ask me about **Machine Learning, Statistics**
 

@@ -1,5 +1,5 @@
 # About Me:
-*Hi there! I'm a passionate Data Science enthusiast with a strong foundation in statistical analysis, machine learning, and data visualization. I love turning raw data into actionable insights and developing models that solve real-world problems.<br>
+*H*i there! I'm a passionate Data Science enthusiast with a strong foundation in statistical analysis, machine learning, and data visualization. I love turning raw data into actionable insights and developing models that solve real-world problems.<br>
 ## 📫 Areas of Expertise: 
 **Machine Learning**: Experienced in building and optimizing machine learning models using frameworks such as Scikit-Learn, TensorFlow, and Keras. Skilled in various algorithms, including regression, classification, clustering, and deep learning.<br> 
 **Data Analysis**: Proficient in exploring and analyzing datasets to uncover patterns and insights. Strong skills in using Python libraries like Pandas and NumPy for data manipulation and analysis.<br>

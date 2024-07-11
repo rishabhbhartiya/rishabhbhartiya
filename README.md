@@ -4,7 +4,7 @@
 **Machine Learning**: Experienced in building and optimizing machine learning models using frameworks such as Scikit-Learn, TensorFlow, and Keras. Skilled in various algorithms, including regression, classification, clustering, and deep learning.<br> 
 **Data Analysis**: Proficient in exploring and analyzing datasets to uncover patterns and insights. Strong skills in using Python libraries like Pandas and NumPy for data manipulation and analysis.<br>
 **Data Visualization**: Adept at creating clear and compelling visualizations using tools like Matplotlib, Seaborn, and Plotly to communicate data-driven stories effectively.<br> 
-**Web Scraping**: Capable of gathering and preprocessing data from web sources using BeautifulSoup, Scrapy, and Selenium for various data-driven projects.<br><br>
+**Web Scraping**: Capable of gathering and preprocessing data from web sources using BeautifulSoup, Scrapy, and Selenium for various data-driven projects.<br>
 ## 📫 Technical Skills: 
 **Programming Languages**: Python,, SQL<br> 
 **Libraries and Tools**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly, BeautifulSoup, Scrapy, Selenium<br> 
@@ -14,7 +14,7 @@
 I am continuously expanding my knowledge and skills in the data science field. Currently, I am diving deeper into:<br>
 Advanced deep learning techniques<br>
 Natural language processing (NLP)<br>
-Big data technologies like Hadoop and Spark<br><br>
+Big data technologies like Hadoop and Spark<br>
 ## 📫 Get in Touch:
 I'm always excited to connect with fellow data enthusiasts, discuss new ideas, and explore collaboration opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rishabhbhartiya/) or send me an [email](mailto:your-rishabhbhartiya854@gmail.com).<br>
 ## 🌐 Social Con:

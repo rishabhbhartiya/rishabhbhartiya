@@ -30,3 +30,4 @@ I'm always excited to connect with fellow data enthusiasts, discuss new ideas, a
 [![](https://visitcount.itsvg.in/api?id=rishabhbhartiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitSkyline](https://gitskyline.natrajx.in/rishabhbhartiya.svg)

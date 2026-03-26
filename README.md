@@ -12,18 +12,7 @@
 
 ![Terminal](https://readmeforge.natrajx.in/api/terminal?title=rishabh@natrajx:~$&lines=whoami:+Rishabh+Bhartiya+%E2%80%94+ML+Engineer+%26+Freelancer|location:+Jabalpur%2C+Madhya+Pradesh%2C+India|kaggle:+Notebook+Expert+%C2%B7+Rank+%23612+%C2%B7+17+Bronze+Notebooks+%C2%B7+2+Silver+Datasets|agency:+Co-founder+%40+NatrajX+(natrajx.in)|portfolio:+rishabhbhartiya.natrajx.in|speciality:+Production+AI+Systems%2C+LLM+Evaluation%2C+Data+Science|status:+%F0%9F%9F%A2+Open+to+Freelance+Opportunities&metal=matrix&width=900)
 
-![Divider](https://readmeforge.natrajx.in/api/divider?style=gradient&metal=neon-blue&width=900&height=28)
 
-## 🏆 Kaggle Achievements
-
-<p align="center">
-<a href="https://www.kaggle.com/rishabhbhartiya"><img src="https://readmeforge.natrajx.in/api/card?title=Global+Rank&value=%23612&metal=gold&style=hologram&width=200&height=130" alt="Kaggle Rank"/></a>&nbsp;
-<a href="https://www.kaggle.com/rishabhbhartiya"><img src="https://readmeforge.natrajx.in/api/card?title=Notebook+Tier&value=Expert&metal=gold&style=hologram&width=200&height=130" alt="Notebook Expert"/></a>&nbsp;
-<a href="https://www.kaggle.com/rishabhbhartiya"><img src="https://readmeforge.natrajx.in/api/card?title=Notebooks&value=17+Bronze&metal=bronze&style=hologram&width=200&height=130" alt="Bronze Notebooks"/></a>&nbsp;
-<a href="https://www.kaggle.com/rishabhbhartiya"><img src="https://readmeforge.natrajx.in/api/card?title=Datasets&value=2+Silver+1+Bronze&metal=silver&style=hologram&width=200&height=130" alt="Dataset Medals"/></a>
-</p>
-
-![Divider](https://readmeforge.natrajx.in/api/divider?style=zigzag&metal=gold&width=900&height=28)
 
 ## 🚀 Featured Project — Text-to-Animation Engine
 
@@ -34,7 +23,7 @@
 <a href="https://natrajx.in/work"><img src="https://readmeforge.natrajx.in/api/button?label=All+Projects&metal=chrome&style=ghost&width=170&height=44" alt="All Projects"/></a>
 </p>
 
-![Divider](https://readmeforge.natrajx.in/api/divider?style=wave&metal=neon-blue&width=900&height=28)
+
 
 ## 🛠️ Tech Stack
 

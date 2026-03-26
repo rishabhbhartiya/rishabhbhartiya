@@ -30,4 +30,12 @@ I'm always excited to connect with fellow data enthusiasts, discuss new ideas, a
 [![](https://visitcount.itsvg.in/api?id=rishabhbhartiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitSkyline](https://gitcity.natrajx.in/rishabhbhartiya.svg)
+<p align="center">
+  <a href="https://gitcity.natrajx.in/rishabhbhartiya">
+    <img 
+      src="https://gitcity.natrajx.in/api/svg?u=rishabhbhartiya"
+      alt="GitCity Skyline"
+      width="1000"
+    />
+  </a>
+</p>

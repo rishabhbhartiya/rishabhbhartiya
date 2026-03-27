@@ -8,7 +8,7 @@ I've deployed real systems to real users — not just Kaggle notebooks or side p
 
 Outside of client work, I compete on Kaggle, build open source tools, and write about ML engineering.
 
-📍 Jabalpur, India · 🌐 [rishabhbhartiya.natrajx.in](https://rishabhbhartiya.natrajx.in) · 🤝 Open to freelance
+📍 India · 🌐 [rishabhbhartiya.natrajx.in](https://rishabhbhartiya.natrajx.in) · 🤝 Open to freelance
 
 ---
 

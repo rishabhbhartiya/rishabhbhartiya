@@ -2,7 +2,7 @@
 
 ### ML Engineer · Kaggle Notebook Expert #612 · Freelancer · India
 
-I'm **Rishabh Bhartiya** — an ML Engineer from **Jabalpur, Madhya Pradesh, India** with 3+ years of experience building and shipping production AI systems. I work at the intersection of machine learning, LLM engineering, and full-stack development.
+I'm **Rishabh Bhartiya** — an ML Engineer from **India** with 3+ years of experience building and shipping production AI systems. I work at the intersection of machine learning, LLM engineering, and full-stack development.
 
 I've deployed real systems to real users — not just Kaggle notebooks or side projects. My biggest production work is the **Text-to-Animation Engine** at [Edza.ai](https://edza.ai), a multi-agent AI pipeline that converts academic topics into animated educational videos with a 99.4% success rate.
 
@@ -143,5 +143,3 @@ For larger agency projects, I work through [NatrajX](https://natrajx.in) — the
 [Portfolio](https://rishabhbhartiya.natrajx.in) · [LinkedIn](https://www.linkedin.com/in/rishabhbhartiya/) · [Kaggle](https://www.kaggle.com/rishabhbhartiya) · [Medium](https://medium.com/@rishabhbhartiya854) · [X](https://x.com/RISHABHBHARTIY) · [Stack Overflow](https://stackoverflow.com/users/24108396/rishabh-bhartiya) · [Quora](https://www.quora.com/profile/Rishabh-Bhartiya) · [Instagram](https://www.instagram.com/bhartiyarishabh/)
 
 ---
-
-*Rishabh Bhartiya · ML Engineer · Kaggle Notebook Expert #612 · Jabalpur, India*

@@ -143,3 +143,5 @@ For larger agency projects, I work through [NatrajX](https://natrajx.in) — the
 [Portfolio](https://rishabhbhartiya.natrajx.in) · [LinkedIn](https://www.linkedin.com/in/rishabhbhartiya/) · [Kaggle](https://www.kaggle.com/rishabhbhartiya) · [Medium](https://medium.com/@rishabhbhartiya854) · [X](https://x.com/RISHABHBHARTIY) · [Stack Overflow](https://stackoverflow.com/users/24108396/rishabh-bhartiya) · [Quora](https://www.quora.com/profile/Rishabh-Bhartiya) · [Instagram](https://www.instagram.com/bhartiyarishabh/)
 
 ---
+
+[![Repositories](https://readmeforge.natrajx.in/api/card-glass?glassTheme=dark&metal=electric&width=220&height=170&title=Repositories&value=42&subtitle=Public+repos&icon=%E2%97%88&linkUrl=https%3A%2F%2Fwww.natrajx.in%2F)](https://www.natrajx.in/)

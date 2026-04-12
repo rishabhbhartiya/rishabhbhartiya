@@ -1,6 +1,7 @@
 ![Terminal](https://readmeforge.natrajx.in/api/terminal?title=profile.sh&lines=%24+whoami%7CRishabh+Bhartiya%7C%24+echo+%24ROLE%7CML+Engineer+%C2%B7+Kaggle+Notebook+Expert+%23612+%C2%B7+Freelancer+%C2%B7+India%7C%24+cat+about.txt%7CI%27m+Rishabh+Bhartiya+%E2%80%94+an+ML+Engineer+from+India+with+3%2B+years+of+experience+building+production%7C+AI+systems.%7CI+work+at+the+intersection+of+machine+learning%2C+LLM+engineering%2C+and+full-stack+development.%7CI%27ve+deployed+real+systems+to+real+users+%E2%80%94+not+just+Kaggle+notebooks+or+side+projects.%7C%24+cat+hobbies.txt%7COpen+Source+%C2%B7+Kaggle+%C2%B7+Writing+%C2%B7+Coffee+%E2%98%95&theme=dark&metal=obsidian&width=800)
 
-[![](https://readmeforge.natrajx.in/api/card-glass?glassTheme=aurora&metal=electric&width=279&height=109&title=&value=GITCITY&subtitle=Your+GitHub+contributions+as+a+living+3D+city&icon=%E2%AC%A1&linkUrl=https://www.natrajx.in/)](gitcity.natrajx.in)
+
+[![Repositories](https://readmeforge.natrajx.in/api/card-glass?glassTheme=aurora&metal=electric&width=220&height=170&title=Repositories&value=42&subtitle=Public+repos&icon=%E2%97%88&linkUrl=https%3A%2F%2Fwww.natrajx.in%2F)](https://www.natrajx.in/)
 
 ## 🏆 Kaggle
 

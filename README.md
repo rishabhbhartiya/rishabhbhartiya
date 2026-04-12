@@ -4,9 +4,10 @@
 [![](https://readmeforge.natrajx.in/api/card-glass?glassTheme=aurora&metal=electric&width=240&height=170&title=&value=GITCITY&subtitle=GitHub+contributions+as+a+living+3D+city&icon=%E2%AC%A1&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
 
 
-[![Repositories](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=240&height=170&username=rishabhbhartiya&stat=repos&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
-[![Stars](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=240&height=170&username=rishabhbhartiya&stat=stars&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
-[![Forks](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=240&height=170&username=rishabhbhartiya&stat=forks&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
+![Repositories](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=234&height=155&username=rishabhbhartiya&stat=repos)
+![Stars](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=234&height=155&username=rishabhbhartiya&stat=stars)
+![Forks](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=234&height=155&username=rishabhbhartiya&stat=forks)
+
 
 [![](https://readmeforge.natrajx.in/api/card-glass?glassTheme=midnight&metal=copper&width=296&height=136&title=&value=PORTFOLIO&subtitle=Visit+my+personal+website&icon=&linkUrl=https%3A%2F%2Frishabhbhartiya.natrajx.in%2F)](https://rishabhbhartiya.natrajx.in/)
 

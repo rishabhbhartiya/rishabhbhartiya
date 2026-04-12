@@ -2,6 +2,12 @@
 
 
 [![](https://readmeforge.natrajx.in/api/card-glass?glassTheme=aurora&metal=electric&width=240&height=170&title=&value=GITCITY&subtitle=GitHub+contributions+as+a+living+3D+city&icon=%E2%AC%A1&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
+
+
+[![Repositories](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=240&height=170&username=rishabhbhartiya&stat=repos&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
+[![Stars](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=240&height=170&username=rishabhbhartiya&stat=stars&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
+[![Forks](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=240&height=170&username=rishabhbhartiya&stat=forks&linkUrl=https%3A%2F%2Fgitcity.natrajx.in%2F)](https://gitcity.natrajx.in/)
+
 ## 🏆 Kaggle
 
 **[kaggle.com/rishabhbhartiya](https://www.kaggle.com/rishabhbhartiya)**

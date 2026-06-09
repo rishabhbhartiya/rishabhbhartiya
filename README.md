@@ -9,7 +9,7 @@
 ![Forks](https://readmeforge.natrajx.in/api/card-glass?glassTheme=gold&metal=copper&width=234&height=155&username=rishabhbhartiya&stat=forks)
 
 
-[![](https://readmeforge.natrajx.in/api/card-glass?glassTheme=midnight&metal=copper&width=296&height=136&title=&value=PORTFOLIO&subtitle=Visit+my+personal+website&icon=&linkUrl=https%3A%2F%2Frishabhbhartiya.natrajx.in%2F)](https://rishabhbhartiya.natrajx.in/)
+
 
 📩 [rishabhbhartiya.natrajx.in#contact](https://rishabhbhartiya.natrajx.in#contact)
 

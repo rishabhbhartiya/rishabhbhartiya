@@ -57,8 +57,6 @@ For larger agency projects, I work through [NatrajX](https://natrajx.in) — the
 
 | Package | Install | Version | Downloads |
 |:-------:|:-------:|:-------:|:---------:|
-
-<img src="https://raw.githubusercontent.com/rishabhbhartiya/STATANIM/main/banner.svg" width="492" style="border-radius:8px"/>
 | **LLManim** | `pip install llmanim` | [![PyPI](https://img.shields.io/pypi/v/llmanim?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/llmanim/) | [![Downloads](https://static.pepy.tech/badge/llmanim)](https://pepy.tech/project/llmanim) |
 | **statanim** | `pip install statanim` | [![PyPI](https://img.shields.io/pypi/v/statanim?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/statanim/) | [![Downloads](https://static.pepy.tech/badge/statanim)](https://pepy.tech/project/statanim) |
 | **MLRadar** | `pip install mlradar` | [![PyPI](https://img.shields.io/pypi/v/mlradar?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/mlradar/) | [![Downloads](https://static.pepy.tech/badge/mlradar)](https://pepy.tech/project/mlradar) |

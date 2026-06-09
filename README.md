@@ -24,4 +24,11 @@ For larger agency projects, I work through [NatrajX](https://natrajx.in) — the
 [Portfolio](https://rishabhbhartiya.natrajx.in) · [LinkedIn](https://www.linkedin.com/in/rishabhbhartiya/) · [Kaggle](https://www.kaggle.com/rishabhbhartiya) · [Medium](https://medium.com/@rishabhbhartiya854) · [X](https://x.com/RISHABHBHARTIY) · [Stack Overflow](https://stackoverflow.com/users/24108396/rishabh-bhartiya) · [Quora](https://www.quora.com/profile/Rishabh-Bhartiya) · [Instagram](https://www.instagram.com/bhartiyarishabh/)
 
 ---
+## 📦 Python Packages
+
+| Package | Install | Version | Downloads |
+|---------|---------|---------|-----------|
+| **LLManim** | `pip install llmanim` | [![PyPI](https://img.shields.io/pypi/v/llmanim?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/llmanim/) | [![Downloads](https://static.pepy.tech/badge/llmanim)](https://pepy.tech/project/llmanim) |
+| **statanim** | `pip install statanim` | [![PyPI](https://img.shields.io/pypi/v/statanim?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/statanim/) | [![Downloads](https://static.pepy.tech/badge/statanim)](https://pepy.tech/project/statanim) |
+| **MLRadar** | `pip install mlradar` | [![PyPI](https://img.shields.io/pypi/v/mlradar?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/mlradar/) | [![Downloads](https://static.pepy.tech/badge/mlradar)](https://pepy.tech/project/mlradar) |
 

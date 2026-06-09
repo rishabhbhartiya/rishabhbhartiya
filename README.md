@@ -23,4 +23,3 @@ For larger agency projects, I work through [NatrajX](https://natrajx.in) — the
 
 ---
 
-[![Repositories](https://readmeforge.natrajx.in/api/card-glass?glassTheme=dark&metal=electric&width=220&height=170&title=Repositories&value=42&subtitle=Public+repos&icon=%E2%97%88&linkUrl=https%3A%2F%2Fwww.natrajx.in%2F)](https://www.natrajx.in/)

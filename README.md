@@ -195,6 +195,5 @@ Now building independently @ NatrajX  ·  AI engineering agency
 
 *Built with [ReadmeForge](https://readmeforge.natrajx.in) · Powered by [NatrajX](https://natrajx.in)*
 
-![Profile views](https://komarev.com/ghpvc/?username=rishabhbhartiya&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

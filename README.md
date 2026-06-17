@@ -34,7 +34,7 @@
 
 &nbsp;
 
-## ⚡ At a Glance
+## At a Glance
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 &nbsp;
 
-## 🏙️ My GitHub as a Living City
+## My GitHub as a Living City
 
 <div align="center">
 
@@ -65,7 +65,7 @@
 
 &nbsp;
 
-## 📦 Python Packages
+## Python Packages
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 &nbsp;
 
-## 🧠 Production Work
+## Production Work
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Now building independently @ NatrajX  ·  AI engineering agency
 
 &nbsp;
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -142,7 +142,7 @@ Now building independently @ NatrajX  ·  AI engineering agency
 
 &nbsp;
 
-## 🏆 Kaggle
+## Kaggle
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Now building independently @ NatrajX  ·  AI engineering agency
 
 &nbsp;
 
-## ✍️ Latest Writing
+## Latest Writing
 
 <div align="center">
 
@@ -176,16 +176,16 @@ Now building independently @ NatrajX  ·  AI engineering agency
 
 &nbsp;
 
-## 🤝 Work With Me
+## Work With Me
 
 <div align="center">
 
 | I'm open to | Contact |
 |:-----------:|:-------:|
-| Full-time remote ML / AI PM / DevRel roles | 📩 [rishabhbhartiya.natrajx.in#contact](https://rishabhbhartiya.natrajx.in#contact) |
-| Freelance AI/ML engineering contracts | 🏢 [natrajx.in](https://natrajx.in) |
-| Technical writing commissions | ✍️ [Dev.to](https://dev.to/rishabhbhartiya) · [Medium](https://medium.com/@rishabh.bhartiya.in) |
-| Open source collaborations | ⭐ Star a repo and open an issue |
+| Full-time remote ML / AI PM / DevRel roles | [rishabhbhartiya.natrajx.in#contact](https://rishabhbhartiya.natrajx.in#contact) |
+| Freelance AI/ML engineering contracts | [natrajx.in](https://natrajx.in) |
+| Technical writing commissions | [Dev.to](https://dev.to/rishabhbhartiya) · [Medium](https://medium.com/@rishabh.bhartiya.in) |
+| Open source collaborations | Star a repo and open an issue |
 
 </div>
 
